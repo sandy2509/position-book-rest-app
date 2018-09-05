@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>edu.book.position</groupId>
-    <artifactId>position-book-app</artifactId>
+    <artifactId>position-book-rest-app</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <packaging>jar</packaging>

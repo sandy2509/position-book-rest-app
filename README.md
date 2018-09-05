@@ -1,4 +1,4 @@
-# position-book-app
+# position-book-rest-app
 Exposes Rest API to use position book related operation
 
 Author: Sandeep Das
